@@ -1,9 +1,9 @@
 ### Hi there, I'm David 👋
 
-- 🌱 I’m currently learning ... computer science
-- 🔭 I’m currently working on ... school, probably
-- 👀 I’m interested in ... tech, philosophy
-- 📫 How to reach me: ... shoot me a mail
+- 🌱 I’m currently learning computer science
+- 🔭 I’m currently working on school, probably
+- 👀 I’m interested in tech, philosophy
+- 📫 How to reach me: shoot me a mail
 
 
 > He who laughs at himself never runs out of things to laugh at
