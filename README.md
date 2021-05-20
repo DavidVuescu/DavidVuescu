@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm David 👋
+
+- 🌱 I’m currently learning ... computer science
+- 🔭 I’m currently working on ... school, probably
+- 👀 I’m interested in ... tech, philosophy
+- 📫 How to reach me: ... shoot me a mail
+
+
+> He who laughs at himself never runs out of things to laugh at
+> ~ Epictetus
 
 <!--
 **DavidVuescu/DavidVuescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
