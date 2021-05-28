@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning computer science
 - 🔭 I’m currently working on school, probably
-- 👀 I’m interested in tech, philosophy
+- 👀 I’m interested in tech, philosophy and video games
 - 📫 How to reach me: shoot me a mail
 
 
