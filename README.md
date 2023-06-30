@@ -1,7 +1,7 @@
 ### Hi there, I'm David 👋
 
-- 🌱 I’m currently learning computer science
-- 🔭 I’m currently working on school, probably
+- 🌱 I’m currently learning computer science, mountaineering, knots
+- 🔭 I’m currently working on my bachelor's thesis
 - 👀 I’m interested in tech, philosophy and video games
 - 📫 How to reach me: shoot me a mail
 
